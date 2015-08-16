@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "gulp-file-metadata.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bruennijs/commonjs.git"
@@ -20,7 +23,7 @@
     "url": "https://github.com/bruennijs/commonjs/issues"
   },
   "homepage": "https://github.com/bruennijs/commonjs#readme",
-  "devDependencies": {
+  "dependencies": {
     "gulp-util": "^3.0.6"
   }
 }
