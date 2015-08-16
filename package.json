@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bruennijs/commonjs/issues"
   },
-  "homepage": "https://github.com/bruennijs/commonjs#readme"
+  "homepage": "https://github.com/bruennijs/commonjs#readme",
+  "devDependencies": {
+    "gulp-util": "^3.0.6"
+  }
 }
